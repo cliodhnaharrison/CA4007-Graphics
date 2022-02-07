@@ -8,3 +8,9 @@ ax.set_xlabel('X')
 ax.set_ylabel('Y')
 ax.set_zlabel('Z')
 plt.show()
+
+
+# An intrinsics matrix containing a focal length of 1000 pixels and
+# c = [cx, cy] = [0, 0].
+# An orthonormal rotation matrix = I.
+# A translation vector.
